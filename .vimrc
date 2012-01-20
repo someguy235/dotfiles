@@ -1,0 +1,10 @@
+set autoindent
+set smartindent
+set tabstop=2
+set shiftwidth=2
+set ruler
+set incsearch
+set expandtab
+set foldmethod=indent
+set foldnestmax=10
+set foldlevel=1
